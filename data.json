@@ -1,0 +1,16 @@
+{
+  "apparel": [
+    {
+      "code": "A123",
+      "size": "M",
+      "quantity": 50,
+      "price": 500
+    },
+    {
+      "code": "A124",
+      "size": "L",
+      "quantity": 30,
+      "price": 600
+    }
+  ]
+}
