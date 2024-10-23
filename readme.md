@@ -1,3 +1,9 @@
+To Start API server :
+ npx ts-node-dev src/index.ts
+
+
+
+
 API Request Examples
 1. Update Stock:
 
